@@ -1,5 +1,4 @@
 ---
 title: "About This Website"
 ---
-
-More about this website.
+Hola acá encontrará la información del curso estadística básica que se dearrolla en el ITM
