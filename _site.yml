@@ -1,13 +1,21 @@
-name: "my-website"
+name: "Estadística-básica"
 output_dir: "."
+include: ["import.R"]
+exclude: ["docs.txt", "*.csv"]
 navbar:
-  title: "My Website"
+  title: "Johanna Trochez González"
   left:
-    - text: "Home"
+    - text: "Estadística"
+      icon: fa-home
       href: index.html
-    - text: "About"
+    - text: "Aplicaciones Shiny"
+      icon: fa-home
       href: about.html
 output:
   html_document:
     theme: united
     highlight: textmate
+    
+    include:
+      after_body: footer.html
+      css: styles.css

@@ -1,4 +1,5 @@
 ---
-title: "About This Website"
+title: "Aplicaciones desarrolladas en Shiny"
 ---
 Hola acá encontrará la información del curso estadística básica y de diseño experimental que se dearrolla en el ITM
+
