@@ -24,7 +24,45 @@ thumbnail("Peach", "images/peach.png",
           "https://en.wikipedia.org/wiki/Peach")
 ```
 
+
+
+La escuela emite el dia a dia que se debe relaizar 
+- [compromiso academico](https://github.com/jtrochezg/repositoriodeprueba/blob/master/compromiso.pdf)
+- [dia a dia](https://github.com/jtrochezg/repositoriodeprueba/blob/master/DIA-%20DIA_ESTADISTICA_BASICA_2017-2oficial%20adriana%20guerrero.pdf)
 A continuación encontrará el material necesario para el desarrollo del curso
 
-- Diapositivas sobre [R Markdown](https://github.com/jtrochezg/repositoriodeprueba/blob/master/FUNCIONES%20DE%20DISTRIBUCI%C3%93N%20DE%20PROBABILIDAD%20CONTINUAS.pdf)
+- [Introducción del curso](https://github.com/jtrochezg/repositoriodeprueba/blob/master/Presentaci%C3%B3n%20del%20curso%20estad%C3%ADstica%20basica2.pdf)
+- [Regresión lineal](https://github.com/jtrochezg/repositoriodeprueba/blob/master/Regresi%C3%B3n%20lineal.pdf)
+- [Probabilidad](https://github.com/jtrochezg/repositoriodeprueba/blob/master/Probabilidad.pdf)
+- [Distribuciones discretas](https://github.com/jtrochezg/repositoriodeprueba/blob/master/ITM_VAD_EBX.pdf)
+- [Distribuciones continuas](https://github.com/jtrochezg/repositoriodeprueba/blob/master/FUNCIONES%20DE%20DISTRIBUCI%C3%93N%20DE%20PROBABILIDAD%20CONTINUAS.pdf)
+
+
 Asi mismo encontrará los talleres correspondientes:
+
+
+- [Taller de regresión lineal](https://github.com/jtrochezg/repositoriodeprueba/blob/master/taller%20de%20regresi%C3%B3n%20lineal%20simple.pdf)
+- [Taller de probabilidad](https://github.com/jtrochezg/repositoriodeprueba/blob/master/taller%20de%20probabilidad.pdf)
+- [Taller de distribuciones continuas](https://github.com/jtrochezg/repositoriodeprueba/blob/master/taller%20de%20distribuciones%20continuas.pdf)
+
+Trabajo final de la asignatura
+
+[Poster](https://github.com/jtrochezg/repositoriodeprueba/blob/master/Poster%20de%20estad%C3%ADstica%20descriptiva.pdf)
+
+
+Las tablas las puedes encontrar [Aqui](https://github.com/jtrochezg/repositoriodeprueba/blob/master/tabla%20de%20diferentes%20probabilidades.pdf)
+
+
+
+
+BIBLIOGRAFIA
+
+
+
+-Probabilidad y estadística para ingeniería y ciencias Jay L. Devore
+
+-Guerrero P, A., Buitrago C, M. V., & Curieses P, M. d. (2010). Estadistica Basica (2da ed.). Medellin: Fondo Editorial ITM.
+
+
+
+
