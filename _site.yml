@@ -17,13 +17,12 @@ navbar:
     - icon: fa-lightbulb-o
       href: http://ciencias.medellin.unal.edu.co/escuelas/estadistica/herramientas.html
     - icon: fa-github
-      href: https://github.com/srunal
+      href: https://github.com/srunal  
 output:
   html_document:
-    theme: united
-    highlight: textmate
-    
+    theme: flatly
+    highlight: espresso
     include:
-      after_body: footer.html
-      css: styles.css
+     after_body: footer.html
+     css: styles.css
       

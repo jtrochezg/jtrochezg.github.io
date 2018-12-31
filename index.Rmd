@@ -1,46 +1,74 @@
----
-title: "Estadística"
----
+
+
+
+
+
+
+
 
 ## Hola a todos Bienvenidos al curso de estadística básica
 
-La escuela emite el dia a dia que se debe realizar:
+```{r fig.asp=0.6, fig.align='center', echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("img.png")
+grid.raster(img)
+```
+
+
+###Información del docente
+
+
+Johanna Trochez Gonzalez
+
+correo:jtrochezg@gmail.com
+
+
+
+###Documentos de interés por parte de la escuela:
 
 - [compromiso academico](https://github.com/jtrochezg/repositoriodeprueba/blob/master/compromiso.pdf)
 
-- [dia a dia](https://github.com/jtrochezg/repositoriodeprueba/blob/master/DIA-%20DIA_ESTADISTICA_BASICA_2017-2oficial%20adriana%20guerrero.pdf)
+- [Día a día](https://github.com/jtrochezg/repositoriodeprueba/blob/master/DIA-%20DIA_ESTADISTICA_BASICA_2017-2oficial%20adriana%20guerrero.pdf)
 
 
-A continuación encontrará el material necesario para el desarrollo del curso
+###A continuación encontrará el material necesario para el desarrollo del curso
 
 - [Introducción del curso](https://github.com/jtrochezg/repositoriodeprueba/blob/master/Presentaci%C3%B3n%20del%20curso%20estad%C3%ADstica%20basica2.pdf)
+
 - [Regresión lineal](https://github.com/jtrochezg/repositoriodeprueba/blob/master/Regresi%C3%B3n%20lineal.pdf)
+
 - [Probabilidad](https://github.com/jtrochezg/repositoriodeprueba/blob/master/Probabilidad.pdf)
+
 - [Distribuciones discretas](https://github.com/jtrochezg/repositoriodeprueba/blob/master/ITM_VAD_EBX.pdf)
+
 - [Distribuciones continuas](https://github.com/jtrochezg/repositoriodeprueba/blob/master/FUNCIONES%20DE%20DISTRIBUCI%C3%93N%20DE%20PROBABILIDAD%20CONTINUAS.pdf)
 
 
-Asi mismo encontrará los talleres correspondientes:
+###Así mismo encontrará los talleres correspondientes:
 
 
 - [Taller de regresión lineal](https://github.com/jtrochezg/repositoriodeprueba/blob/master/taller%20de%20regresi%C3%B3n%20lineal%20simple.pdf)
+
 - [Taller de probabilidad](https://github.com/jtrochezg/repositoriodeprueba/blob/master/taller%20de%20probabilidad.pdf)
+
 - [Taller de distribuciones continuas](https://github.com/jtrochezg/repositoriodeprueba/blob/master/taller%20de%20distribuciones%20continuas.pdf)
 
-Trabajo final de la asignatura
-
-[Poster](https://github.com/jtrochezg/repositoriodeprueba/blob/master/Poster%20de%20estad%C3%ADstica%20descriptiva.pdf)
+### Trabajo final de la asignatura [Poster](https://github.com/jtrochezg/repositoriodeprueba/blob/master/Poster%20de%20estad%C3%ADstica%20descriptiva.pdf)
 
 
-Las tablas las puedes encontrar [Aqui](https://github.com/jtrochezg/repositoriodeprueba/blob/master/tabla%20de%20diferentes%20probabilidades.pdf)
+### Las tablas las puedes encontrar [Aqui](https://github.com/jtrochezg/repositoriodeprueba/blob/master/tabla%20de%20diferentes%20probabilidades.pdf)
 
-videos de intereres
-- como estimar la media, la desviación estandar en la calculadora
-- como estimaar un modelo de regresión lineal
+###videos de intererés:
+
+- como estimar la media, la desviación estandar en la [calculadora](https://www.youtube.com/watch?v=4eXrcn6QLgs), [Otro video](https://www.youtube.com/watch?v=6jqoucoas8Y)
+
+- como estimar un modelo de [regresión lineal](https://www.youtube.com/watch?v=4_WO31Dapv0) en la calculadora
+
+- Como estimar [combinatorias y permutaciones](https://www.youtube.com/watch?v=q0TNGY2xMrM) en la calculadora
 
 
-
-BIBLIOGRAFIA
+###BIBLIOGRAFIA
 
 
 
