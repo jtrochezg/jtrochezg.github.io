@@ -52,6 +52,9 @@ Trabajo final de la asignatura
 
 Las tablas las puedes encontrar [Aqui](https://github.com/jtrochezg/repositoriodeprueba/blob/master/tabla%20de%20diferentes%20probabilidades.pdf)
 
+videos de intereres
+- como estimar la media, la desviación estandar en la calculadora
+- como estimaar un modelo de regresión lineal
 
 
 
