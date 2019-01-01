@@ -1,5 +1,25 @@
 ---
 title: "Aplicaciones desarrolladas en Shiny"
 ---
-Hola acá encontrará la información del curso estadística básica y de diseño experimental que se dearrolla en el ITM
 
+R es una herramienta de análisis estadístico que permite el desarrollo de multiples aplicaciones a traves R studio y su librería shiny
+
+
+
+```{r fig.asp=0.6, fig.align='center', echo=FALSE}
+library(png)
+library(grid)
+img2 <- readPNG("img2.png")
+grid.raster(img2)
+```
+
+En esta sección se muestran algunos de los múltiples usos y aplicaciones que se pueden realizar:
+En el siguiente link se puede encontrar como relaizar una encuesta
+
+
+
+
+```{r echo=FALSE}
+knitr::include_app("https://trochez.shinyapps.io/ENCUESTADOR/",
+                   height = "800px")
+```
