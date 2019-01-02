@@ -12,14 +12,6 @@ grid.raster(IMG3)
 ## Hola a todos Bienvenidos al curso de estadística básica
 
 
-```{r fig.asp=0.6, fig.align='center', echo=FALSE}
-library(png)
-library(grid)
-img <- readPNG("img.png")
-grid.raster(img)
-```
-
-
 ###Información del docente
 
 
@@ -60,6 +52,17 @@ correo:jtrochezg@gmail.com
 
 ### Trabajo final de la asignatura [Poster](https://github.com/jtrochezg/repositoriodeprueba/blob/master/Poster%20de%20estad%C3%ADstica%20descriptiva.pdf)
 
+###Encuesta 
+
+Por favor conteste la siguiente [encuesta](https://docs.google.com/forms/d/e/1FAIpQLSe-lyIiDmro19r9E5ubNdNJNc9J4k_XLTJOaY8dAjCo1P6khg/viewform?vc=0&c=0&w=1)
+
+```{r fig.asp=0.6, fig.align='center', echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("img.png")
+grid.raster(img)
+```
+
 
 ### Las tablas las puedes encontrar [Aqui](https://github.com/jtrochezg/repositoriodeprueba/blob/master/tabla%20de%20diferentes%20probabilidades.pdf)
 
@@ -71,9 +74,6 @@ correo:jtrochezg@gmail.com
 
 - Como estimar [combinatorias y permutaciones](https://www.youtube.com/watch?v=q0TNGY2xMrM) en la calculadora
 
-###Encuesta 
-
-Por favor conteste la siguiente [encuesta](https://docs.google.com/forms/d/e/1FAIpQLSe-lyIiDmro19r9E5ubNdNJNc9J4k_XLTJOaY8dAjCo1P6khg/viewform?vc=0&c=0&w=1)
 
 
 
