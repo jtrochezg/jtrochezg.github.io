@@ -14,7 +14,10 @@ grid.raster(img2)
 ```
 
 En esta sección se muestran algunos de los múltiples usos y aplicaciones que se pueden realizar:
-En el siguiente link se puede encontrar como relaizar una encuesta
+
+
+
+##Una encuesta
 
 
 
@@ -23,3 +26,18 @@ En el siguiente link se puede encontrar como relaizar una encuesta
 knitr::include_app("https://trochez.shinyapps.io/ENCUESTADOR/",
                    height = "800px")
 ```
+
+
+##Un análisis descriptivo
+
+
+
+```{r echo=FALSE}
+knitr::include_app("https://trochez.shinyapps.io/APPJOA/",
+                   height = "800px")
+```
+
+
+
+
+
