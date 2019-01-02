@@ -17,7 +17,7 @@ navbar:
     - icon: fa-lightbulb-o
       href: http://ciencias.medellin.unal.edu.co/escuelas/estadistica/herramientas.html
     - icon: fa-github
-      href: https://github.com/srunal  
+      href: https://github.com/jtrochezg/jtrochezg.github.io
 output:
   html_document:
     theme: flatly

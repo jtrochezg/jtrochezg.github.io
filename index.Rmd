@@ -1,12 +1,16 @@
 
 
 
-
-
-
+```{r fig.asp=0.6, fig.align='right', echo=FALSE}
+library(png)
+library(grid)
+IMG3 <- readPNG("IMG3.png")
+grid.raster(IMG3)
+```
 
 
 ## Hola a todos Bienvenidos al curso de estadística básica
+
 
 ```{r fig.asp=0.6, fig.align='center', echo=FALSE}
 library(png)
@@ -27,7 +31,7 @@ correo:jtrochezg@gmail.com
 
 ###Documentos de interés por parte de la escuela:
 
-- [compromiso academico](https://github.com/jtrochezg/repositoriodeprueba/blob/master/compromiso.pdf)
+- [Compromiso académico](https://github.com/jtrochezg/repositoriodeprueba/blob/master/compromiso.pdf)
 
 - [Día a día](https://github.com/jtrochezg/repositoriodeprueba/blob/master/DIA-%20DIA_ESTADISTICA_BASICA_2017-2oficial%20adriana%20guerrero.pdf)
 
@@ -66,6 +70,12 @@ correo:jtrochezg@gmail.com
 - como estimar un modelo de [regresión lineal](https://www.youtube.com/watch?v=4_WO31Dapv0) en la calculadora
 
 - Como estimar [combinatorias y permutaciones](https://www.youtube.com/watch?v=q0TNGY2xMrM) en la calculadora
+
+###Encuesta 
+
+Por favor conteste la siguiente [encuesta](https://docs.google.com/forms/d/e/1FAIpQLSe-lyIiDmro19r9E5ubNdNJNc9J4k_XLTJOaY8dAjCo1P6khg/viewform?vc=0&c=0&w=1)
+
+
 
 
 ###BIBLIOGRAFIA

@@ -39,5 +39,14 @@ knitr::include_app("https://trochez.shinyapps.io/APPJOA/",
 
 
 
+## Ajuste de modelo lineal mixto
+
+```{r echo=FALSE}
+knitr::include_app("https://jtrochezg.shinyapps.io/linear_mixed_model/",
+                   height = "800px")
+```
+
+
+
 
 
