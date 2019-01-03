@@ -88,4 +88,15 @@ grid.raster(img)
 
 
 
+###Contador de visitas
+
+<br/>
+<center> 
+Contador de visitas:
+
+<!-- hitwebcounter Code START -->
+<a href="http://www.hitwebcounter.com" target="_blank">
+<img src="http://hitwebcounter.com/counter/counter.php?page=7013435&style=0005&nbdigits=5&type=page&initCount=0" title="web page hit counters codes Free" Alt="web page hit counters codes Free"   border="10" >
+</center>
+</a>                                        <br/>
 
